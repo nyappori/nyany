@@ -3,7 +3,7 @@
     <h1>LoL カスタムチームビルダー</h1>
 
     <div class="player-input-section">
-      <h2>プレイヤー情報入力 (10人)</h2>
+      <h2>プレイヤー情報入力</h2>
       <div id="playerInputs" class="player-grid">
         <PlayerInput
           v-for="player in players"
